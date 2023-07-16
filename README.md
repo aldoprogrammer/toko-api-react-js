@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This one is such a good way to train yourself.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This one is such a good way to train yourself. So that later one, you will know how to fetch an API in react js.
 
 ## Available Scripts
 
